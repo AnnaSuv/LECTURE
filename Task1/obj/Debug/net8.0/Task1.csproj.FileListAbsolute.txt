@@ -1,0 +1,14 @@
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\bin\Debug\net8.0\Task1.exe
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\bin\Debug\net8.0\Task1.dll
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\bin\Debug\net8.0\Task1.pdb
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\obj\Debug\net8.0\Task1.dll
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\obj\Debug\net8.0\Task1.pdb
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Users\Анна\Desktop\ОБУЧЕНИЕ\Закомство с ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\01_CSharp\Lesson 1\Task1\obj\Debug\net8.0\ref\Task1.dll
