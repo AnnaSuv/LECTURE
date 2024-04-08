@@ -17,3 +17,10 @@ double produkt = i1 * d1;
 System.Console.WriteLine(produkt1);
 System.Console.WriteLine(produkt2);
 System.Console.WriteLine(produkt);
+
+int num1 = 5;
+int num2 = 7;
+int num3 = 3;
+int num4 = 4;
+int result = num1*num2/(num3+num4);
+System.Console.WriteLine(result);
